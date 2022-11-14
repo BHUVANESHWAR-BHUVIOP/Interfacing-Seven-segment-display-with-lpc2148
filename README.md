@@ -1,9 +1,9 @@
 # Ex. No. :08 --Interfacing-Seven-segment-display-with-lpc2148
 
-Name:	Kishore Kumar S
+Name:	BHUVANESHWAR V
 
 
-Roll no 212221240023
+Roll no 212221240009
 
 
 ## Aim: 
