@@ -1,9 +1,10 @@
 # Ex. No. :08 --Interfacing-Seven-segment-display-with-lpc2148
 
-Name:	BHUVANESHWAR V
+Name : BHUVANESHWAR V
 
+Roll No: 212221240009
 
-Roll no 212221240009
+Date of experiment : 28.10.2022
 
 
 ## Aim: 
